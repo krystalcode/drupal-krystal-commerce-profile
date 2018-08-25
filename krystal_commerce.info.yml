@@ -51,6 +51,7 @@ dependencies:
   - inline_entity_form
   - link
   - mailsystem
+  - menu_link_content
   - menu_ui
   - module_filter
   - node
@@ -70,11 +71,10 @@ dependencies:
   - toolbar
   - ultimate_cron
   - user
+  - views
   - views_ui
   - webform
   - webform_ui
-  - menu_link_content
-  - views
 theme:
   - seven
   - bootstrap
