@@ -11,23 +11,6 @@
             "role": "Developer"
         }
     ],
-    "repositories": {
-        "chosen": {
-            "type": "package",
-            "package": {
-                "name": "harvesthq/chosen",
-                "version": "1.8.2",
-                "type": "drupal-library",
-                "dist": {
-                    "url": "https://github.com/harvesthq/chosen/releases/download/v1.8.2/chosen_v1.8.2.zip",
-                    "type": "zip"
-                },
-                "require": {
-                    "composer/installers": "^1.2.0"
-                }
-            }
-        }
-    },
     "require": {
         "drupal/admin_toolbar": "^1.24",
         "drupal/advagg": "^3.5",
