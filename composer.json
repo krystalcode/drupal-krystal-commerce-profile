@@ -34,6 +34,7 @@
         "drupal/bootstrap": "^3.11",
         "drupal/chosen": "^2.5",
         "drupal/commerce": "^2.8",
+        "drupal/commerce_price_rule": "1.x-dev",
         "drupal/commerce_shipping": "^2.0-beta",
         "drupal/config_split": "1.x-dev",
         "drupal/email_registration": "^1.0-rc",
