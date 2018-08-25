@@ -46,16 +46,21 @@ dependencies:
   - file
   - filter
   - flysystem
+  - fpa
   - image
   - inline_entity_form
   - link
   - mailsystem
   - menu_ui
+  - module_filter
   - node
   - options
   - page_cache
+  - paragraphs
   - path
+  - pathauto
   - profile
+  - redis
   - swiftmailer
   - system
   - taxonomy
@@ -69,10 +74,7 @@ dependencies:
   - webform
   - webform_ui
   - menu_link_content
-  - pathauto
-  - redis
   - views
-  - paragraphs
 theme:
   - seven
   - bootstrap
