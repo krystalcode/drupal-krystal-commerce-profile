@@ -77,4 +77,5 @@ dependencies:
   - webform_ui
 theme:
   - seven
+  # @I Include and enable a bootstrap sub-theme
   - bootstrap
