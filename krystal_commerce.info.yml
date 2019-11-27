@@ -45,6 +45,7 @@ dependencies:
   - field_group
   - field_ui
   - file
+  - filecache
   - filter
   - flysystem
   - fpa
@@ -63,7 +64,6 @@ dependencies:
   - path
   - pathauto
   - profile
-  - redis
   - swiftmailer
   - system
   - taxonomy
