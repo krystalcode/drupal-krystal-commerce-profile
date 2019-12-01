@@ -12,8 +12,8 @@
         }
     ],
     "require": {
-        "drupal/admin_toolbar": "^1.24",
-        "drupal/advagg": "^3.5",
+        "drupal/admin_toolbar": "^2.0",
+        "drupal/advagg": "^4.0",
         "drupal/bootstrap": "^3.11",
         "drupal/chosen": "^2.5",
         "drupal/commerce": "^2.8",
@@ -21,7 +21,7 @@
         "drupal/commerce_shipping": "^2.0-beta",
         "drupal/config_split": "^1.0",
         "drupal/email_registration": "^1.0-rc",
-        "drupal/field_group": "^1.0",
+        "drupal/field_group": "^3.0@rc",
         "drupal/filecache": "^1.0-alpha",
         "drupal/flysystem": "^1.0",
         "drupal/fpa": "2.x-dev",
