@@ -24,7 +24,6 @@
         "drupal/field_group": "^3.0",
         "drupal/filecache": "^1.0-alpha",
         "drupal/flysystem": "^1.0",
-        "drupal/fpa": "2.x-dev",
         "drupal/imagick": "^1.2",
         "drupal/module_filter": "^3.1",
         "drupal/paragraphs": "^1.3",
