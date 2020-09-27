@@ -1,8 +1,8 @@
 {
-    "name": "krystalcode/drupal8-krystal-commerce-profile",
-    "description": "The Krystal Commerce Drupal 8 install profile.",
+    "name": "krystalcode/drupal-krystal-commerce-profile",
+    "description": "The Krystal Commerce Drupal install profile.",
     "type": "drupal-profile",
-    "homepage": "https://github.com/krystalcode/drupal8-krystal-commerce-profile",
+    "homepage": "https://github.com/krystalcode/drupal-krystal-commerce-profile",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
