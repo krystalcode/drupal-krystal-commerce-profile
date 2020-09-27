@@ -31,5 +31,12 @@
         "drupal/swiftmailer": "^2.0-beta",
         "drupal/ultimate_cron": "^2.0-alpha",
         "drupal/webform": "^5.0"
+    },
+    "extra": {
+        "patches": {
+            "drupal/filecache": {
+                "Drupal 9 readiness": "https://www.drupal.org/files/issues/2020-06-21/3145739-4.patch"
+            }
+        }
     }
 }
