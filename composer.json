@@ -22,7 +22,7 @@
         "drupal/config_split": "^1.4",
         "drupal/email_registration": "^1.0",
         "drupal/field_group": "^3.0",
-        "drupal/filecache": "^1.0-alpha",
+        "drupal/filecache": "dev-3145739-drupal-9-readiness",
         "drupal/flysystem": "^1.0",
         "drupal/imagick": "^1.2",
         "drupal/module_filter": "^3.1",
@@ -31,12 +31,5 @@
         "drupal/swiftmailer": "^2.0-beta",
         "drupal/ultimate_cron": "^2.0-alpha",
         "drupal/webform": "^5.0"
-    },
-    "extra": {
-        "patches": {
-            "drupal/filecache": {
-                "Drupal 9 readiness": "https://www.drupal.org/files/issues/2020-06-21/3145739-4.patch"
-            }
-        }
     }
 }
