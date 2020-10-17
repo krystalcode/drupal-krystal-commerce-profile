@@ -57,7 +57,6 @@ dependencies:
   - mailsystem
   - menu_link_content
   - menu_ui
-  - module_filter
   - node
   - options
   - page_cache
