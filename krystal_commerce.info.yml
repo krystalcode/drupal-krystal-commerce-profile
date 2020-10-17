@@ -6,6 +6,8 @@ core: 8.x
 dependencies:
   - address
   - admin_toolbar
+  - admin_toolbar_links_access_filter
+  - admin_toolbar_search
   - admin_toolbar_tools
   - advagg
   - advagg_bundler
