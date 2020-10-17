@@ -30,6 +30,6 @@
         "drupal/pathauto": "^1.2",
         "drupal/swiftmailer": "^2.0-beta",
         "drupal/ultimate_cron": "^2.0-alpha",
-        "drupal/webform": "^5.0"
+        "drupal/webform": "^6.0"
     }
 }
