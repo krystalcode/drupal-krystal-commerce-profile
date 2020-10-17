@@ -19,6 +19,7 @@
         "drupal/commerce": "^2.8",
         "drupal/commerce_price_rule": "dev-3146804-drupal-9-compatibility",
         "drupal/commerce_shipping": "^2.0-beta",
+        "drupal/config_ignore": "^2.2",
         "drupal/config_split": "^1.4",
         "drupal/email_registration": "^1.0",
         "drupal/field_group": "^3.0",
