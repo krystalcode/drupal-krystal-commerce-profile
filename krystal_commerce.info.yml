@@ -13,9 +13,12 @@ dependencies:
   - advagg_bundler
   - advagg_css_minify
   - advagg_js_minify
+  - big_pipe
   - block
+  - block_content
   - breakpoint
   - chosen
+  - chosen_field
   - chosen_lib
   - ckeditor
   - comment
@@ -23,6 +26,7 @@ dependencies:
   - commerce_cart
   - commerce_checkout
   - commerce_log
+  - commerce_number_pattern
   - commerce_order
   - commerce_payment
   - commerce_price
@@ -63,6 +67,7 @@ dependencies:
   - page_cache
   - paragraphs
   - path
+  - path_alias
   - pathauto
   - profile
   - swiftmailer
