@@ -49,7 +49,6 @@ dependencies:
   - filecache
   - filter
   - flysystem
-  - fpa
   - image
   - imagick
   - inline_entity_form
