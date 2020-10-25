@@ -32,6 +32,7 @@
         "drupal/schema_metatag": "^2.0",
         "drupal/swiftmailer": "^2.0-beta",
         "drupal/ultimate_cron": "^2.0-alpha",
-        "drupal/webform": "^6.0"
+        "drupal/webform": "^6.0",
+        "drupal/xmlsitemap": "^1.0"
     }
 }
