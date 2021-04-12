@@ -12,11 +12,10 @@
         }
     ],
     "require": {
-        "drupal/admin_toolbar": "^2.0",
         "drupal/advagg": "^4.0",
         "drupal/bootstrap": "^3.11",
         "drupal/chosen": "^3.0",
-        "drupal/commerce": "^2.8",
+        "drupal/commerce": "^2.17",
         "drupal/commerce_price_rule": "^1.0",
         "drupal/commerce_shipping": "^2.0",
         "drupal/config_ignore": "^2.2",
@@ -25,6 +24,7 @@
         "drupal/field_group": "^3.0",
         "drupal/filecache": "dev-3145739-drupal-9-readiness",
         "drupal/flysystem": "^2.0",
+        "drupal/gin": "^3.0",
         "drupal/imagick": "^1.2",
         "drupal/metatag": "^1.12",
         "drupal/paragraphs": "^1.3",

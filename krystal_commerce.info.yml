@@ -5,10 +5,6 @@ core_version_requirement: ^8.7.7 || ^9
 
 dependencies:
   - address
-  - admin_toolbar
-  - admin_toolbar_links_access_filter
-  - admin_toolbar_search
-  - admin_toolbar_tools
   - advagg
   - advagg_bundler
   - advagg_css_minify
@@ -55,6 +51,7 @@ dependencies:
   - filecache
   - filter
   - flysystem
+  - gin_toolbar
   - image
   - imagick
   - inline_entity_form
@@ -84,6 +81,6 @@ dependencies:
   - webform
   - webform_ui
 theme:
-  - seven
+  - gin
   # @I Include and enable a bootstrap sub-theme
   - bootstrap
