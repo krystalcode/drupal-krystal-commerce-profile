@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "drupal/admin_toolbar": "^2.0",
+        "drupal/admin_toolbar": "^3.0",
         "drupal/advagg": "^4.0",
         "drupal/bootstrap": "^3.11",
         "drupal/chosen": "^3.0",
