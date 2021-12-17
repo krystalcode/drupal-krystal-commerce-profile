@@ -23,7 +23,7 @@
         "drupal/config_split": "^1.4",
         "drupal/email_registration": "^1.0",
         "drupal/field_group": "^3.0",
-        "drupal/filecache": "dev-3145739-drupal-9-readiness",
+        "drupal/filecache": "^1.0",
         "drupal/flysystem": "^2.0",
         "drupal/gin": "^3.0",
         "drupal/imagick": "^1.2",
